@@ -4,4 +4,4 @@ I'm learning git from scratch.
 
 Today I made my first Git commit.
 
-This line not exist only in feature-readme. 
+This line exist in master and in feature-readme.
